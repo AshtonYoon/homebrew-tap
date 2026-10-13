@@ -1,7 +1,8 @@
 # Homebrew tap
 
 ```sh
-brew install ashtonyoon/tap/poom3d
+brew tap ashtonyoon/tap
+brew install poom3d
 ```
 
 | Formula | What it is |
